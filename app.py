@@ -6,7 +6,7 @@ import gdown
 
 # Google Drive model file ID
 file_id = "1-6KoTZHvirLz8IHxLId3o8NJdku-n6Tx"
-model_path = "WCE_Curated_Colon_Detection_Model.keras"
+model_path = "WCE_Curated_Colon_Detection_Model.h5"
 
 # Download the model from Google Drive
 @st.cache_resource
